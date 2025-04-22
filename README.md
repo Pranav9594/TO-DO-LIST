@@ -101,7 +101,7 @@ The modular JavaScript structure makes it easy to add new features:
 
 ## Browser Support
 
-This application works in all modern browsers that support ES6+ features:
+This application works in all modern browsers that support ES6+ features
 
 - Chrome (latest)
 - Firefox (latest)
