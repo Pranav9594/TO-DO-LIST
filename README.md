@@ -108,15 +108,4 @@ This application works in all modern browsers that support ES6+ features:
 - Safari (latest)
 - Edge (latest)
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Icons provided by [Font Awesome](https://fontawesome.com/)
-- Color inspiration from Nord color palette 
