@@ -2,6 +2,10 @@
 
 A clean, responsive, and visually appealing To-Do List web application built with vanilla HTML, CSS, and JavaScript.
 
+
+![Application Screenshot](./![Preview](https://github.com/user-attachments/assets/755841ea-3995-4415-af51-9be4ccbaace3)
+) 
+
 ## Features
 
 - **Modern UI Design**: Clean interface with smooth animations and visual feedback
