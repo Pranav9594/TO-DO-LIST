@@ -93,13 +93,7 @@ The application uses CSS variables for easy customization. Open `css/styles.css`
 }
 ```
 
-### Adding Features
 
-The modular JavaScript structure makes it easy to add new features:
-
-1. Create a new module in the `js` folder
-2. Import it in `app.js`
-3. Initialize it in the DOMContentLoaded event listener
 
 ## Browser Support
 
