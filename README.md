@@ -95,13 +95,5 @@ The application uses CSS variables for easy customization. Open `css/styles.css`
 
 
 
-## Browser Support
-
-This application works in all modern browsers that support ES6+ features
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
 
