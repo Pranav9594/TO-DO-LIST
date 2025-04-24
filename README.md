@@ -1,6 +1,6 @@
 # To-Do List Application
 
-![Preview](https://github.com/user-attachments/assets/b4760762-187a-4880-b2ab-99d2f34ae3df)
+![Screenshot 2025-04-24 151314](https://github.com/user-attachments/assets/03fd1e3e-02f1-462b-b516-1d909c0bf1b3)
 
 A clean, responsive, and visually appealing To-Do List web application built with vanilla HTML, CSS, and JavaScript.
 
