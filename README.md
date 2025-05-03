@@ -91,7 +91,7 @@ The application uses CSS variables for easy customization. Open `css/styles.css`
     --secondary-color: #7895cb;
     /* other variables */
 }
-``'''
+``'''''''''''''''''''''''''''''''''''''''''''
 
 
 
