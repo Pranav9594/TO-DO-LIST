@@ -94,6 +94,4 @@ The application uses CSS variables for easy customization. Open `css/styles.css`
 ``'''''''''''''''''''''''''''''''''''''''''''
 
 
-.....................................................................
-
 
